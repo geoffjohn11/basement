@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mGeoPlotManagerUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mplot manager[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return plotId when insert is successful[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return failure when dao returns failure[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return failure when plotLookup returns failure[0m[0m

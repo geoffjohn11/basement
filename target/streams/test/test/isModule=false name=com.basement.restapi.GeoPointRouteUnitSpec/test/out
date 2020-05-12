@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mGeoPointRouteUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe point rest api[0m[0m
+[0m[[0minfo[0m] [0m[31m- should return success when request for all points *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  500 Internal Server Error did not equal 200 OK (GeoPointRouteUnitSpec.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return success when making a request for point id 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return error when lookup actor returns a failure[0m[0m

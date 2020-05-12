@@ -1,0 +1,24 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.restapi.GeoPlotRouteUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.FSM.PlotWorkerUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.GeoPlotLookupUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.OpenWeatherClientUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.GeoPointLookupUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.GeoPlotManagerUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.WeatherManagerUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.services.GeoPointManagerUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.basement.restapi.GeoPointRouteUnitSpec, org.scalatest.tools.Framework$$anon$1@1b09ef4, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 4 seconds, 441 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 38[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 38, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.OpenWeatherClientUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.FSM.PlotWorkerUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.GeoPointManagerUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.GeoPlotManagerUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.GeoPlotLookupUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.GeoPointLookupUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.restapi.GeoPlotRouteUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.services.WeatherManagerUnitSpec[0m
+[0m[[0mdebug[0m] [0m	com.basement.restapi.GeoPointRouteUnitSpec[0m

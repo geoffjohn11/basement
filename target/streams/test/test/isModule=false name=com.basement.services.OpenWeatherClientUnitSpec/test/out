@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mOpenWeatherClientUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mopen weather client[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return WeatherApiResult from open weather[0m[0m

@@ -1,0 +1,11 @@
+#Successful Tests
+#Sun Dec 09 14:10:28 EST 2018
+com.basement.services.OpenWeatherClientUnitSpec=1544382625936
+com.basement.services.GeoPlotManagerUnitSpec=1544382628105
+com.basement.restapi.GeoPlotRouteUnitSpec=1544382625936
+com.basement.services.GeoPointLookupUnitSpec=1544382625247
+com.basement.services.GeoPlotLookupUnitSpec=1544382625245
+com.basement.services.GeoPointManagerUnitSpec=1544382628138
+com.basement.FSM.PlotWorkerUnitSpec=1544382628073
+com.basement.restapi.GeoPointRouteUnitSpec=1544382625932
+com.basement.services.WeatherManagerUnitSpec=1544382625248

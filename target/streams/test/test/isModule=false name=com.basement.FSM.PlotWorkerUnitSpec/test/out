@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mPlotWorkerUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mthe identify geo plot message to plot handler[0m[0m
+[0m[[0minfo[0m] [0m[32m- should identify a plot by cookie token and reply with geoPlot without refreshing weather[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return failure when geoPlotLookup fails[0m[0m
+[0m[[0minfo[0m] [0m[32m- should identify a plot by cookie token and refresh the weather only for expired points[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return failure when openWeatherClient fails[0m[0m
+[0m[[0minfo[0m] [0m[32mthe create geo plot message to plot handler[0m[0m
+[0m[[0minfo[0m] [0m[32m- should create a new geo plot and respond[0m[0m

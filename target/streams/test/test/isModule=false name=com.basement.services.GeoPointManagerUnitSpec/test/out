@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mGeoPointManagerUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mpoint manager[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return geopoint vector when insert is successful[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return failure when insert is failure[0m[0m
+[0m[[0minfo[0m] [0m[32m- must update point and weather[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return failure when update point and weather fails[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return true operation result when delete is successful[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return false operation result when delete is failure[0m[0m

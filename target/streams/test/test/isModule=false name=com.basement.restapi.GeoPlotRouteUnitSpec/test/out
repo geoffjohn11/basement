@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mGeoPlotRouteUnitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe plot rest api[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return success when request for plot with cookie[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return success when creating new plot[0m[0m
